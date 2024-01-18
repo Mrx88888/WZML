@@ -33,9 +33,9 @@ requests==2.28.1
 speedtest-cli
 selenium==4.7.2
 telegraph==2.2.0
-tenacity
+tenacity==8.1.0
 tgCrypto
-urllib3
-xattr
-yt-dlp
+urllib3==1.26.13
+xattr==0.10.1
+yt-dlp==2022.11.11
 waybackpy
